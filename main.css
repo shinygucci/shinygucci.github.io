@@ -196,17 +196,11 @@ a.pure-button-primary {
     margin: 4em 0 1em;
 }
 
-figure.profile_photo > img{
+figure.profile_photo img{
     zoom: 50%;
     display: block;
     margin: 0 auto;
-    padding-bottom: 7.1em;
-    border-radius: 50%;
-}
-
-figure.profile_photo > img:hover{
-    zoom: 60%;
-    padding-bottom: 0;
+    margin-bottom: 10em;
     border-radius: 2%;
 }
 
